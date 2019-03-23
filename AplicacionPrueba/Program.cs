@@ -10,7 +10,7 @@ namespace AplicacionPrueba
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundo");
+            Console.WriteLine("i like dongs");
         }
     }
 }
